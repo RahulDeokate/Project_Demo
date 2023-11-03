@@ -2,4 +2,4 @@
 Demo Git repository
 <br>
 Author
-Rahul Deokate
+Rahul Shivaji Deokate
